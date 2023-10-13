@@ -11,4 +11,7 @@ Earlier versions of the lab exercises designed to run as local python scripts ca
     - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab1%2Bsolutions.ipynb)
 * **Week 2 (13 October 2023)**
     - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab2.ipynb)
+    - Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab2%2Bsolutions.ipynb)
+* **Week 2 (20 October 2023)**
+    - Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0088/colab/blob/main/comp88_lab3.ipynb)
     - Solutions: (will be posted after the labs)
